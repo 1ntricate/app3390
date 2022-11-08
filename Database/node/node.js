@@ -1,2 +1,1 @@
-var playerid;
-var playeritem;
+find
