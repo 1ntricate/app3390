@@ -1,0 +1,2 @@
+var playerid;
+var playeritem;
