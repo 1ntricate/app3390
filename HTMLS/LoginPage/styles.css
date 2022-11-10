@@ -26,11 +26,20 @@ body {
   top: 50%;
   left: 50%;
   margin: -150px 0 0 -150px;
-  width:300px;
+  width: 300px;
   height:300px;
 }
 .login h1 { color: rgb(248, 233, 252); text-shadow: 0 0 10px rgba(0,0,0,0.3); letter-spacing:1px; text-align:center; }
 
+.faq {
+  position:relative;
+  top:25%;
+  left:25%;
+  margin: 10px 0 0 10px;
+  width: 100px;
+  height: 100px;
+}
+.faq h2 { color:white); text-shadow: 0 0 5px rgba(0,0,1,5); letter-spacing:1px;text-align:left; }
 input { 
   width: 100%; 
   margin-bottom: 10px; 
