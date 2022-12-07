@@ -21,6 +21,17 @@ body {
 
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3E1D6D', endColorstr='#092756',GradientType=1 );
 }
+.homepage {
+  display: inline;
+  font-family: "Times New Roman", Times, serif;
+  position:relative;
+  top:10%;
+  left:05;
+  margin: 10px 0 0 10px;
+  width: 100px;
+  height: 100px;
+
+}
 .login { 
   position: absolute;
   top: 50%;
@@ -32,10 +43,11 @@ body {
 .login h1 { color: rgb(248, 233, 252); text-shadow: 0 0 10px rgba(0,0,0,0.3); letter-spacing:1px; text-align:center; }
 
 .faq {
+  display: inline;
   font-family: "Times New Roman", Times, serif;
   position:relative;
-  top:25%;
-  left:25%;
+  top:10%;
+  left:0%;
   margin: 10px 0 0 10px;
   width: 100px;
   height: 100px;
@@ -43,15 +55,26 @@ body {
 .faq h2 { color:rgb(248, 233, 252); text-shadow: 0 0 5px rgba(0,0,1,5); letter-spacing:1px;text-align:left; }
 
 .download {
+  display: inline;
     font-family: "Times New Roman", Times, serif;
     position: relative;
-    top: 20%;
-    left: 25%;
-    margin: 10px 0 0 10px;
+    top: 0%;
+    left: 5%;
+    margin: 10x 0 0 10px;
     width: 100px;
     height:100px;
   }
 
+  .leaderboard {
+    display: inline;
+    font-family: "Times New Roman", Times, serif;
+    position: relative;
+    top: 0%;
+    left: 10%;
+    margin: 10px 0 0 10px;
+    width: 100px;
+    height:100px
+  }
   .p1 {
     font-family: "Times New Roman", Times, serif;
   }
